@@ -1,0 +1,3 @@
+nombre y apellido: Mayorga Daniel Exequiel
+asignatura: Práctica profesionalizante 2
+profesor: Diego Nieto
